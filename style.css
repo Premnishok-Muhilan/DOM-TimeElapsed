@@ -1,0 +1,13 @@
+.main {
+  margin-top: 75px;
+  text-align: center;
+}
+
+.result {
+  margin-top: 10px;
+  text-align: center;
+}
+#dob {
+  width: 35%;
+  margin-right: 15px;
+}
